@@ -5,7 +5,7 @@ Computer Engineering Student • Java Developer • Cloud & AI Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable software, cloud applications, and AI-powered solutions that solve real-world problems.
+Passionate about building scalable software, cloud applications and AI-powered solutions that solve real-world problems.
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@ Passionate about building scalable software, cloud applications, and AI-powered 
 ## 👨‍💻 About Me
 
 - 🎓 Final Year B.E. Computer Engineering Student
-- 💻 Passionate about Software Development, Cloud Computing, Artificial Intelligence, and Full Stack Development
-- ☁️ Experienced with AWS Cloud Services including EC2, S3, IAM, and DynamoDB
-- 🌱 Currently learning Spring Boot, System Design, Data Structures & Algorithms, DevOps, and Agentic AI
+- 💻 Passionate about Software Development, Cloud Computing, Artificial Intelligence and Full Stack Development
+- ☁️ Experienced with AWS Cloud Services including EC2, S3, IAM and DynamoDB
+- 🌱 Currently learning Spring Boot, System Design, Data Structures & Algorithms, DevOps and Agentic AI
 - 🚀 Aspiring Software Development Engineer (SDE)
 - 🤝 Always open to collaborating on exciting Open Source and Full Stack projects
 
