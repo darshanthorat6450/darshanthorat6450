@@ -5,13 +5,11 @@ Computer Engineering Student • Java Developer • Cloud & AI Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable software, cloud applications and AI-powered solutions that solve real-world problems.
+Passionate about building scalable software, cloud applications, and AI-powered solutions that solve real-world problems.
 </p>
 
 <p align="center">
-<a href="https://github.com/darshanthorat6450">
-<img src="https://komarev.com/ghpvc/?username=darshanthorat6450&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=darshanthorat6450&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -19,18 +17,18 @@ Passionate about building scalable software, cloud applications and AI-powered s
 ## 👨‍💻 About Me
 
 - 🎓 Final Year B.E. Computer Engineering Student
-- 💻 Passionate about Software Development, Cloud Computing, Artificial Intelligence and Full Stack Development
-- ☁️ Experienced with AWS Cloud Services including EC2, S3, IAM and DynamoDB
-- 🌱 Currently learning Spring Boot, System Design, Data Structures & Algorithms, DevOps and Agentic AI
+- 💻 Passionate about Software Development, Cloud Computing, Artificial Intelligence, and Full Stack Development
+- ☁️ Hands-on experience with AWS (EC2, S3, IAM, DynamoDB)
+- 🌱 Currently learning Spring Boot, System Design, DSA, DevOps, and Agentic AI
 - 🚀 Aspiring Software Development Engineer (SDE)
-- 🤝 Always open to collaborating on exciting Open Source and Full Stack projects
+- 🤝 Open to collaborating on Open Source and innovative software projects
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,bootstrap,react,nextjs,nodejs,express,spring,mysql,mongodb,postgres,django,flask,aws,docker,git,github,vscode,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,bootstrap,react,nextjs,nodejs,express,spring,mysql,mongodb,postgres,django,flask,aws,docker,git,github,vscode,postman&perline=8" />
 </p>
 
 ---
@@ -62,31 +60,32 @@ An AI-powered loan approval prediction platform integrating:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=darshanthorat6450&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanthorat6450&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=darshanthorat6450&theme=tokyonight"/>
+
+![](https://streak-stats.demolab.com?user=darshanthorat6450&theme=tokyonight&hide_border=true)
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=darshanthorat6450&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanthorat6450&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Boot
+- Data Structures & Algorithms
+- System Design
+- DevOps
+- Agentic AI
+- Generative AI
 
 ---
 
@@ -112,7 +111,8 @@ An AI-powered loan approval prediction platform integrating:
 
 <div align="center">
 
-### 💡 *"Code. Learn. Build. Innovate. Repeat."*
+### 💡 *"Code • Learn • Build • Innovate • Repeat"*
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+
 </div>
