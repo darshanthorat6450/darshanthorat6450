@@ -5,7 +5,7 @@ Computer Engineering Student • Java Developer • Cloud & AI Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable software, cloud applications, and AI-powered solutions that solve real-world problems.
+Passionate about building scalable software, cloud applications , Software Testing and AI-powered solutions that solve real-world problems.
 </p>
 
 <p align="center">
