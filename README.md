@@ -115,5 +115,4 @@ An AI-powered loan approval prediction platform integrating:
 ### 💡 *"Code. Learn. Build. Innovate. Repeat."*
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
-
 </div>
