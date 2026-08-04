@@ -76,18 +76,9 @@ An AI-powered loan approval prediction platform integrating:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanthorat6450&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-## 🌱 Currently Learning
 
-- Spring Boot
-- Data Structures & Algorithms
-- System Design
-- DevOps
-- Agentic AI
-- Generative AI
 
----
 
 ## 📫 Connect With Me
 
