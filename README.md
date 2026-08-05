@@ -60,21 +60,6 @@ An AI-powered loan approval prediction platform integrating:
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-![](https://streak-stats.demolab.com?user=darshanthorat6450&theme=tokyonight&hide_border=true)
-
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanthorat6450&theme=tokyo-night&hide_border=true"/>
-</p>
 
 
 
